@@ -1,0 +1,55 @@
+name: atds
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.2.1
+  firebase_auth: ^5.1.4
+  pdf: ^3.11.1
+  printing: ^5.13.1
+  fluttertoast: ^8.2.6
+  eva_icons_flutter: ^3.1.0
+  flutter_launcher_icons: ^0.13.1
+  intl: ^0.19.0 # Upgrade intl to the latest version
+  date_format: ^2.0.7
+  table_calendar: ^3.1.2 # Keep the latest version of table_calendar
+  fl_chart: ^0.68.0
+  google_fonts: ^3.0.0
+  introduction_screen: ^3.1.12
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^3.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/splash_screen.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/student.gif
+    - assets/attendance.gif
+    - assets/faculty.gif
+    - assets/attendance_icon.gif
+    - assets/login.gif
+    - assets/document.gif
+    - assets/verified.gif
+    - assets/giphy.webp
+    - assets/bell.gif
+    - assets/add.gif
+    - assets/check-green.gif
+    - assets/pg.webp

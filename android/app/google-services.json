@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739603245811",
+    "project_id": "attende-c1c35",
+    "storage_bucket": "attende-c1c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739603245811:android:2697e62ca55d04ba07a586",
+        "android_client_info": {
+          "package_name": "com.example.atds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QKls0JQyCCXINYw0oBHhwx4r3n-n19E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
